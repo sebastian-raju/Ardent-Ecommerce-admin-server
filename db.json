@@ -1,0 +1,134 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "POCO C61",
+      "brand": "POCO",
+      "category": "Phones",
+      "price": 18900,
+      "imageFilename": "poco-c61.png",
+      "createdAt": "2024-05-23T15:47:38.198Z",
+      "description": "POCO C61 (Diamond Dust Black, 128 GB)  (6 GB RAM)"
+    },
+    {
+      "id": 2,
+      "name": "SAMSUNG Galaxy F15 5G",
+      "brand": "SAMSUNG",
+      "category": "Phones",
+      "price": "25999",
+      "imageFilename": "samsung-galaxyf1.png",
+      "createdAt": "2024-05-23T15:47:38.198Z",
+      "description": "SAMSUNG Galaxy F15 5G (Jazzy Green, 128 GB)  (4 GB RAM)"
+    },
+    {
+      "id": 3,
+      "name": "Apple iPhone 15",
+      "brand": "APPLE",
+      "category": "Phones",
+      "price": "71999",
+      "imageFilename": "1716468174678 iphone15-rose.webp",
+      "createdAt": "2024-05-23T15:47:38.198Z",
+      "description": "Apple iPhone 15 (Black, 128 GB)"
+    },
+    {
+      "id": 4,
+      "name": "REDMI 12",
+      "brand": "REDMI",
+      "category": "Phones",
+      "price": 9499,
+      "imageFilename": "redmi-12.png",
+      "createdAt": "2024-05-23T15:47:38.198Z",
+      "description": "REDMI 12 (Pastel Blue, 128 GB)  (4 GB RAM)"
+    },
+    {
+      "name": "UiSmart Ui-06 ",
+      "brand": "UISMART",
+      "category": "Phones",
+      "price": "1588",
+      "description": "UiSmart Ui-06  (Black) (512 MB RAM | 256 MB ROM | Expandable Upto 32 TB)",
+      "imageFilename": "1716479258197 uismart.webp",
+      "createdAt": "2024-05-23T15:47:38.198Z",
+      "id": 8
+    },
+    {
+      "name": "CEDO XPRO Back Cover",
+      "brand": "CEDO",
+      "category": "Accessories",
+      "price": 209,
+      "description": "CEDO XPRO Back Cover for Samsung F55 5G, Samsung M55 5G ",
+      "imageFilename": "1716810596226 CEDO XPRO back-cover.webp",
+      "createdAt": "2024-05-27T11:49:56.227Z",
+      "id": 12
+    },
+    {
+      "name": "Zapcase Back Cover",
+      "brand": "Zapcase",
+      "category": "Accessories",
+      "price": "299",
+      "description": "Zapcase Back Cover for Samsung Galaxy S23 FE 5G",
+      "imageFilename": "1716810934848 zapbackcover.webp",
+      "createdAt": "2024-05-27T11:55:34.850Z",
+      "id": 13
+    },
+    {
+      "name": "Earboss AirDoze Music with Game Mode",
+      "brand": "Earboss",
+      "category": "In-Ears",
+      "price": "561",
+      "description": "Earboss AirDoze Music with Game Mode(45ms), Quad Mic ENC, 40 Hours Playback & LED Lights Bluetooth Headset ",
+      "imageFilename": "1716835718921 Earboss AirDoze.webp",
+      "createdAt": "2024-05-27T18:48:38.923Z",
+      "id": 14
+    },
+    {
+      "name": "Canon EOS 3000D DSLR",
+      "brand": "CANON",
+      "category": "Cameras",
+      "price": 34990,
+      "description": "Canon EOS 3000D DSLR Camera 1 Body, 18 - 55 mm Lens  ",
+      "imageFilename": "1716871662071 canoneos.webp",
+      "createdAt": "2024-05-28T04:47:42.090Z",
+      "id": 15
+    },
+    {
+      "name": "DIGITEK GoCAM DAC-002 5K 60FPS WiFi Ultra HD",
+      "brand": "DIGITEK",
+      "category": "Cameras",
+      "price": 6499,
+      "description": "DIGITEK GoCAM DAC-002 5K 60FPS WiFi Ultra HD with 6-Axis Gyro EIS Stabilization 150 WideAngle Sports and Action Camera  ",
+      "imageFilename": "1716871748939 digitek-gocam.webp",
+      "createdAt": "2024-05-28T04:49:08.945Z",
+      "id": 16
+    },
+    {
+      "name": "Fastrack Revoltt FS1 Pro",
+      "brand": "Fastrack",
+      "category": "Other",
+      "price": "1799",
+      "description": "Fastrack Revoltt FS1 Pro|World's First,1.96\" Super AMOLED|Highest Resolution|BT Calling Smartwatch ",
+      "imageFilename": "1716900780513 fastrackrevolteatch.webp",
+      "createdAt": "2024-05-28T12:50:42.169Z",
+      "id": 17
+    },
+    {
+      "name": "iphone 14",
+      "description": "iphone 13 256gb 8gb RAM A14 Bionic",
+      "brand": "Apple",
+      "category": "Phones",
+      "imageFilename": "1717311854009 300825_0_z8d8lq.jpg",
+      "price": 70000,
+      "createdAt": "2024-06-03T16:51:15.315Z",
+      "id": 19
+    },
+    {
+      "name": "s24 ultra ",
+      "description": "Samsung s24 ultra 256gb 8gb RAM snapdragon 8 gen 3",
+      "brand": "Samsung",
+      "category": "Phones",
+      "imageFilename": "1717345691882 Samsung-Galaxy-S23-Ultra_-featured-image-packshot-review.jpg",
+      "price": 130000,
+      "createdAt": "2024-06-05T17:03:27.076Z",
+      "id": 20
+    }
+  ]
+}
